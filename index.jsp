@@ -9,6 +9,7 @@
 	<body>
 	</body>
 <% public static void main(String args[]){} %>
+<h1>test</h1>
   <script>
     function(){}
   </script>
